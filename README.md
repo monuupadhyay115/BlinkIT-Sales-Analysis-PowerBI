@@ -2,10 +2,6 @@
 
 An interactive Power BI dashboard designed to analyze grocery sales performance, compare product categories, and explore outlet performance across different business segments.
 
-> **Portfolio project:** Data analysis • KPI reporting • Interactive dashboards • Business insights
-
----
-
 ## 📌 Project Overview
 
 The objective of this project is to understand sales performance across product categories and outlet segments using an interactive Power BI dashboard. The report brings key performance indicators (KPIs) and visual comparisons into one place, helping users explore the data and identify patterns.
@@ -120,19 +116,4 @@ These are descriptive observations from the dashboard. They do not establish the
 - Interactive dashboard design
 - Comparing product and outlet segments
 - Translating charts into clear, descriptive insights
-- Presenting findings in a structured format
 
-## 📌 Possible Next Steps
-
-- Add a dashboard screenshot for a quick preview on GitHub.
-- Add more analysis of sales trends and category performance.
-- Document the definitions and calculation logic for each KPI.
-- Explore the results further with additional business questions.
-
-## 👤 About This Project
-
-Created as a portfolio project to demonstrate Power BI dashboarding and business data analysis skills for entry-level Data Analyst opportunities.
-
----
-
-**Note:** The metrics and insights above are based on the dashboard summary. Please verify the exact KPI definitions, values, and dataset-sharing permissions before publishing.
